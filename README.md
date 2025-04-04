@@ -57,25 +57,6 @@ Il répond aux besoins suivants :
 
 ---
 
-## Alertes
-
-> [!NOTE]  
-> Ce widget est développé de manière non-officielle, basé sur le service public de Météo-France.
-
-> [!TIP]  
-> Vous pouvez l’intégrer dans votre site HTML simplement avec une balise `<iframe>`.
-
-> [!IMPORTANT]  
-> Le widget fonctionne uniquement avec les villes françaises supportées par Météo-France.
-
-> [!WARNING]  
-> Ne pas surcharger votre site avec plusieurs instances en même temps.
-
-> [!CAUTION]  
-> Assurez-vous de respecter les conditions d’utilisation de Météo-France.
-
----
-
 ## Tableau
 
 | Aligné à gauche | Centré     | Aligné à droite |
