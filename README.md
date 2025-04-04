@@ -161,9 +161,9 @@ Aucun test automatisé pour l’instant, mais vous pouvez :
 | Version | Date | Description |
 |---------|------|-------------|
 | 1.0.0 | 04/04/2025 17:00 | Version README |
-| | | - Documentation complète |
-| | | - Support iframe responsive |
-| | | - Thème sombre intégré |
+| JSP | JSP | - Documentation complète |
+| JSP | JSP | - Support iframe responsive |
+| JSP | JSP| - Thème sombre intégré |
 
 ---
 
